@@ -110,6 +110,7 @@ nav {
   width: 474px;
   margin: 80px 60px;
 }
+
 /* Pillars section style */
 .Pillars {
   background-color: #f5f5f5;
@@ -214,6 +215,7 @@ nav {
   transition: 0.3s;
   border: 1px solid #ffc239;
 }
+
 /* speech section style */
 .speech {
   background-color: #f5f5f5;
@@ -336,6 +338,7 @@ nav {
   transition: 0.3s;
   border: 1px solid #006a50;
 }
+/* Donate section style */
 .donate {
   background-color: #f5f5f5;
   padding-bottom: 80px;
@@ -399,6 +402,7 @@ nav {
   color: #006a50;
   transition: 0.3s;
 }
+/* Subscribe section style */
 .Subscribe {
   background-color: #f5f5f5;
   padding-bottom: 80px;
